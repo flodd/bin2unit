@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+      </Flags>
+      <MainUnit Value="0"/>
+      <UseXPManifest Value="True"/>
+      <ActiveWindowIndexAtStart Value="1"/>
+    </General>
+    <VersionInfo>
+      <Language Value=""/>
+      <CharSet Value=""/>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IgnoreBinaries Value="False"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|ppw|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+        <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T 'Lazarus Run Output' -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </local>
+    </RunParams>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="bin2unit.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="project1"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="45"/>
+        <CursorPos X="51" Y="54"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="D:\lazarus\fpc\2.4.0\source\rtl\objpas\sysutils\filutilh.inc"/>
+        <TopLine Value="69"/>
+        <CursorPos X="10" Y="86"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="D:\lazarus\fpc\2.4.0\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <TopLine Value="73"/>
+        <CursorPos X="4" Y="73"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:\lazarus\fpc\2.4.0\source\rtl\objpas\objpas.pp"/>
+        <UnitName Value="objpas"/>
+        <TopLine Value="54"/>
+        <CursorPos X="19" Y="71"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:\lazarus\fpc\2.4.0\source\rtl\objpas\sysutils\finah.inc"/>
+        <TopLine Value="21"/>
+        <CursorPos X="10" Y="39"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="89" Column="1" TopLine="78"/>
+      </Position1>
+      <Position2>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="92" Column="1" TopLine="81"/>
+      </Position2>
+      <Position3>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="94" Column="1" TopLine="83"/>
+      </Position3>
+      <Position4>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="95" Column="1" TopLine="84"/>
+      </Position4>
+      <Position5>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="99" Column="27" TopLine="88"/>
+      </Position5>
+      <Position6>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="68" Column="1" TopLine="51"/>
+      </Position6>
+      <Position7>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="70" Column="1" TopLine="53"/>
+      </Position7>
+      <Position8>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="136" Column="31" TopLine="119"/>
+      </Position8>
+      <Position9>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="126" Column="66" TopLine="119"/>
+      </Position9>
+      <Position10>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="99" Column="22" TopLine="86"/>
+      </Position10>
+      <Position11>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="136" Column="1" TopLine="125"/>
+      </Position11>
+      <Position12>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="226" Column="1" TopLine="212"/>
+      </Position12>
+      <Position13>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="100" Column="1" TopLine="77"/>
+      </Position13>
+      <Position14>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="99" Column="1" TopLine="73"/>
+      </Position14>
+      <Position15>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="136" Column="1" TopLine="104"/>
+      </Position15>
+      <Position16>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="226" Column="46" TopLine="215"/>
+      </Position16>
+      <Position17>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="225" Column="21" TopLine="215"/>
+      </Position17>
+      <Position18>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="229" Column="27" TopLine="209"/>
+      </Position18>
+      <Position19>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="227" Column="1" TopLine="209"/>
+      </Position19>
+      <Position20>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="136" Column="9" TopLine="125"/>
+      </Position20>
+      <Position21>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="99" Column="1" TopLine="88"/>
+      </Position21>
+      <Position22>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="100" Column="1" TopLine="89"/>
+      </Position22>
+      <Position23>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="226" Column="1" TopLine="215"/>
+      </Position23>
+      <Position24>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="137" Column="38" TopLine="129"/>
+      </Position24>
+      <Position25>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="4" Column="82" TopLine="1"/>
+      </Position25>
+      <Position26>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="100" Column="34" TopLine="89"/>
+      </Position26>
+      <Position27>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="137" Column="38" TopLine="126"/>
+      </Position27>
+      <Position28>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="228" Column="34" TopLine="217"/>
+      </Position28>
+      <Position29>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="265" Column="46" TopLine="254"/>
+      </Position29>
+      <Position30>
+        <Filename Value="bin2unit.lpr"/>
+        <Caret Line="407" Column="13" TopLine="387"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="bin2unit"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <TargetCPU Value="i386"/>
+      <TargetOS Value="win32"/>
+    </CodeGeneration>
+    <Other>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+  <EditorMacros Count="0"/>
+</CONFIG>
